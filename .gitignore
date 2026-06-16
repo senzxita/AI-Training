@@ -10,7 +10,7 @@ __pycache__/
 
 # Generated files
 ai_outputs.json
-ai_benchmark.json
+
 
 # macOS files
 .DS_Store
