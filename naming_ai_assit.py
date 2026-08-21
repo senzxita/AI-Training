@@ -40,7 +40,7 @@ Your introduction should:
     input_variables=["name", "culture_name"]
 )
 greeting_chain = greeting_prompt | llm
-response = greeting_chain.invoke({"name": name, "culture_name": "Thai"})
+response = greeting_chain.invoke({"name": name, "culture_name": "Deutsch"})
 print (response.content)
 
 
