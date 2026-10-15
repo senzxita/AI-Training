@@ -20,7 +20,7 @@ agent = create_agent(
 
 response = agent.invoke({
     'messages': [
-        {'role': 'user', 'content': 'What is the weather in California?'}
+        {'role': 'user', 'content': 'What is the weather in Michigan?'}
     ]
 })
 
